@@ -1,19 +1,19 @@
 fileFormatVersion: 2
-guid: 68fa48627281df540b630b8d4420393a
+guid: dc661e2387c2a8a4ca873e9dea05c767
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4057652279525399919
-    second: Idle_KG_1_0
+      213: 1284694632403127577
+    second: Idle_KG_1 1_0
   - first:
-      213: -6427918337461709574
-    second: Idle_KG_1_1
+      213: 3400678486680442515
+    second: Idle_KG_1 1_1
   - first:
-      213: -4001876867000536830
-    second: Idle_KG_1_2
+      213: -9198959057166804868
+    second: Idle_KG_1 1_2
   - first:
-      213: -8182655624047820708
-    second: Idle_KG_1_3
+      213: -2643087729779542523
+    second: Idle_KG_1 1_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -120,12 +120,100 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Idle_KG_1 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10447812eee254249878218937c9c456
+      internalID: 1284694632403127577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_KG_1 1_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c30ee13fd5014345a91043ad6422978
+      internalID: 3400678486680442515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_KG_1 1_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77ff9fe6cb13e24d92aa65002218927
+      internalID: -9198959057166804868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_KG_1 1_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9ec148291e8f84b91a0f6412985b54
+      internalID: -2643087729779542523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 044c530bc9ee0194286906d519198950
+    spriteID: d92fc5f666ec01642857834d39485ca4
     internalID: 0
     vertices: []
     indices: 
@@ -133,12 +221,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Idle_KG_1_0: -4057652279525399919
-      Idle_KG_1_1: -6427918337461709574
-      Idle_KG_1_2: -4001876867000536830
-      Idle_KG_1_3: -8182655624047820708
+      Idle_KG_1 1_0: 1284694632403127577
+      Idle_KG_1 1_1: 3400678486680442515
+      Idle_KG_1 1_2: -9198959057166804868
+      Idle_KG_1 1_3: -2643087729779542523
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
